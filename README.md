@@ -38,11 +38,3 @@ in sea surface temperature.
 - Python 3.5.1.
 - Pandas, Matplotlib, Seaborn 
 
-
-#### Instalation 
-
-Git can be used to get the copy of the code and example:
-
-https://github.com/agakrawczyk/data_analysis/blob/master/Heat_map.py
-
-https://github.com/agakrawczyk/data_analysis/blob/master/HadSST.3.1.1.0_monthly_globe_ts.txt
