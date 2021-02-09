@@ -4,7 +4,7 @@ centers and scales the data from the array and then calculates the PCA
 clusters the PCA output using 3 different methods: KMeans, Affinity Propagation and MeanShift
 Plots 4 graphs containing PCA and 3 graphs representing different clustering methods.
 Prints silhouette scores for every clustering method in the title of the graph.
-
+adding some comment here - DELETE IT LATER
 """
 import numpy as np
 import matplotlib.pyplot as plt
