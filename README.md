@@ -19,13 +19,6 @@ Can be used for example for analysis of expression data matrices.
 - Python 3.5.1.
 - Scikit-learn, Numpy, Matplotlib 
 
-#### Instalation 
-
-Git can be used to get the copy of the code and example:
-
-https://github.com/agakrawczyk/data_analysis/blob/master/PCA_plot.py
-
-
 
 ### Heatmap
 
